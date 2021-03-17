@@ -5,7 +5,7 @@ CREATE TABLE imdb(
  year TEXT,
  date_published TEXT,
  genre TEXT,
- duration INT,
+ runtime INT,
  country TEXT,
  language TEXT,
  director TEXT,
